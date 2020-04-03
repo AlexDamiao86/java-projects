@@ -1,0 +1,4 @@
+Texto escrito pela Classe Java TesteEscritaFileWriter
+
+
+Alexandre Maia

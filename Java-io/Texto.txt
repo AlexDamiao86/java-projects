@@ -1,0 +1,10 @@
+Texto de teste de caracteres de leitura de alguma coisa que 
+não sei o que é apenas digitando o que está vindo na 
+minha cabeça, espero que este arquivo seja lido pelo 
+programa e também seja utilizado para gravar alguma 
+informação. Tem sido bem interessante fazer esses cursos
+da Alura, eu revisei varias coisas que aprendi na faculdade e
+também conheci várias coisas novas. Estou aproveitando
+muito bem meu tempo livre para fazer esses cursos.
+
+Bem interessante! 

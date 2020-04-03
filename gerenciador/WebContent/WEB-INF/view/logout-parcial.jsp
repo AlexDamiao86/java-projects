@@ -1,0 +1,1 @@
+<p>Usuario Logado: <b>${usuarioLogado.login }</b>	( <a href="entrada?acao=Logout">Sair</a> ) <br /></p>
