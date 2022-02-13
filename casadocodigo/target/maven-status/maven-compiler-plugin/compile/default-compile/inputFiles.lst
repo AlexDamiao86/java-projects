@@ -1,0 +1,14 @@
+/Users/alexandremaia/eclipse-workspace/casadocodigo/src/main/java/br/com/casadocodigo/loja/models/CarrinhoCompras.java
+/Users/alexandremaia/eclipse-workspace/casadocodigo/src/main/java/br/com/casadocodigo/loja/conf/JPAConfiguration.java
+/Users/alexandremaia/eclipse-workspace/casadocodigo/src/main/java/br/com/casadocodigo/loja/models/Preco.java
+/Users/alexandremaia/eclipse-workspace/casadocodigo/src/main/java/br/com/casadocodigo/loja/models/TipoPreco.java
+/Users/alexandremaia/eclipse-workspace/casadocodigo/src/main/java/br/com/casadocodigo/loja/daos/ProdutoDAO.java
+/Users/alexandremaia/eclipse-workspace/casadocodigo/src/main/java/br/com/casadocodigo/loja/conf/ServletSpringMVC.java
+/Users/alexandremaia/eclipse-workspace/casadocodigo/src/main/java/br/com/casadocodigo/loja/models/Produto.java
+/Users/alexandremaia/eclipse-workspace/casadocodigo/src/main/java/br/com/casadocodigo/loja/controllers/ProdutosController.java
+/Users/alexandremaia/eclipse-workspace/casadocodigo/src/main/java/br/com/casadocodigo/loja/controllers/HomeController.java
+/Users/alexandremaia/eclipse-workspace/casadocodigo/src/main/java/br/com/casadocodigo/loja/conf/AppWebConfiguration.java
+/Users/alexandremaia/eclipse-workspace/casadocodigo/src/main/java/br/com/casadocodigo/loja/infra/FileSaver.java
+/Users/alexandremaia/eclipse-workspace/casadocodigo/src/main/java/br/com/casadocodigo/loja/models/CarrinhoItem.java
+/Users/alexandremaia/eclipse-workspace/casadocodigo/src/main/java/br/com/casadocodigo/loja/validation/ProdutoValidation.java
+/Users/alexandremaia/eclipse-workspace/casadocodigo/src/main/java/br/com/casadocodigo/loja/controllers/CarrinhoComprasController.java
